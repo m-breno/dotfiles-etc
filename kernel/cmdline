@@ -1,0 +1,1 @@
+rd.luks.name=8b442fab-563e-4bdf-834b-d5fca8bc618f=root root=/dev/mapper/root rw quiet loglevel=3 plymouth.use-simpledrm systemd.show_status=auto rd.udev.log_level=3 splash vt.global_cursor_default=0
